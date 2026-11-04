@@ -1,0 +1,10 @@
+# IDE
+.idea/
+
+# macOS
+.DS_Store
+
+# Fichiers temporaires SQLite
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
